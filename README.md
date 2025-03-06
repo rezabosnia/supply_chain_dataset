@@ -12,7 +12,7 @@ We will implement various traditional machine learning algorithms alongside a ne
 
 <!-- OBJECTIVES -->
 <h2 id="about-the-project"> OBJECTIVES</h2>
-1.2 Objectives
+
 The primary objective of this project is to predict fraudulent orders. Key tasks include:
 •	Compare performances of traditional machine learning algorithms and neural network
 •	Choose the best model to predict fraudulent orders
